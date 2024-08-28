@@ -1,6 +1,6 @@
 var options = {
     series: [{
-    data: [400, 430, 448, 470, 540, 580, 690, 1100, 1200, 1380]
+    data: [400, 430, 448, 470, 540, 580, 690, 1100]
   }],
     chart: {
     type: 'bar',
@@ -17,8 +17,8 @@ var options = {
     enabled: false
   },
   xaxis: {
-    categories: ['South Korea', 'Canada', 'United Kingdom', 'Netherlands', 'Italy', 'France', 'Japan',
-      'United States', 'China', 'Germany'
+    categories: ['2015', '2016', '2017', '2018', '2019', '2020', '2021',
+      '2022'
     ],
   }
   };
