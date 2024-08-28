@@ -179,7 +179,7 @@ article{
 	background-size: cover; 
 	display: grid;
   position: relative;
-  cursor: url('assets/cursor2.png'), auto;
+  /* cursor: url('assets/cursor2.png'), auto; */
 }
 
 .addborder{
