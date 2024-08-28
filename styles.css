@@ -35,6 +35,15 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 	color: var(--bs-heading-color);
   }
 
+.caption {
+    text-align: center;
+    position: absolute;
+    width: 80%;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%,-50%);
+  }
+
 .halaman  {
 	background-image: url(assets/halaman1_3.gif);
 	background-position: center; 
